@@ -21,7 +21,7 @@ getting "too high" / "too low" hints along the way.
 ## How to run
 
 ```bash
-python3 main.py
+python3 guess.py
 ```
 
 ## Code style
